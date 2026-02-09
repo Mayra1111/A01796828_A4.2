@@ -1,0 +1,38 @@
+Processing file: ../tests/P3_TC4_Results.txt
+
+============================================================
+WORD FREQUENCY REPORT
+============================================================
+Word                          Frequency      
+------------------------------------------------------------
+1                             899            
+1000                          1              
+2                             49             
+3                             1              
+adjustable                    1              
+admin                         1              
+adolescent                    1              
+albuquerque                   1              
+alternatives                  1              
+amazon                        1              
+analyst                       1              
+annual                        1              
+appreciate                    1              
+approve                       1              
+ar                            1              
+arabia                        1              
+architects                    1              
+arthritis                     1              
+asian                         1              
+assessed                      1              
+... and 935 more
+============================================================
+Total words: 1901
+Distinct words: 955
+Elapsed Time: 0.028982 seconds
+============================================================
+
+Results saved to WordCountResults.txt
+
+Program completed successfully!
+Exit code: 0

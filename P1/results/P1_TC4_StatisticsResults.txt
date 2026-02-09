@@ -1,0 +1,11 @@
+DESCRIPTIVE STATISTICS REPORT
+==================================================
+
+Count: 12624
+Mean: 149.00
+Median: 147.75
+Mode: 123.75
+Population Std Dev: 130.414419613089024
+Population Variance: 17009.268218511453597
+
+Elapsed Time: 0.009392 seconds

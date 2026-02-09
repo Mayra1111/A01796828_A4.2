@@ -1,0 +1,38 @@
+Processing file: ../tests/P3_TC2_Results.txt
+
+============================================================
+WORD FREQUENCY REPORT
+============================================================
+Word                          Frequency      
+------------------------------------------------------------
+1                             130            
+184                           1              
+3                             2              
+4                             12             
+advantages                    1              
+afternoon                     1              
+algebra                       1              
+amongst                       1              
+amounts                       1              
+anchor                        1              
+answering                     1              
+apache                        1              
+atomic                        1              
+attending                     1              
+automation                    1              
+bases                         1              
+biz                           1              
+blowjob                       1              
+boots                         1              
+brass                         1              
+... and 135 more
+============================================================
+Total words: 296
+Distinct words: 155
+Elapsed Time: 0.001110 seconds
+============================================================
+
+Results saved to WordCountResults.txt
+
+Program completed successfully!
+Exit code: 0
